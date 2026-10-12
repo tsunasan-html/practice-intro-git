@@ -1,7 +1,3 @@
-.test {
-  display: flex;
-}
-
-.test2 {
-  justify-self: unset;
+.a {
+  display: contents;
 }
